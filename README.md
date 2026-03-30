@@ -2,7 +2,7 @@
 
 Este repositório contém a implementação de uma ALU (Unidade Lógica e Aritmética) de 8 bits.
 
-[![Link para vídeo completo:](https://drive.google.com/file/d/1qXpKlVjQ8h-6CAzaRASRqP8-i-O0p1l_/view?usp=drive_link)]
+https://drive.google.com/file/d/1qXpKlVjQ8h-6CAzaRASRqP8-i-O0p1l_/view?usp=drive_link
 
 A ALU é responsável por executar operações aritméticas e lógicas dentro de um sistema computacional, sendo um dos componentes fundamentais de qualquer processador. Este projeto foi desenvolvido utilizando o simulador de circuitos digitais (Digital), com suporte a múltiplas operações controladas por um seletor (SEL) e uso de registradores para armazenamento de resultados.
 
