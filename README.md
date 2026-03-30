@@ -32,25 +32,6 @@ A ALU é responsável por executar operações aritméticas e lógicas dentro de
 
 ---
 
-## Estrutura do projeto
-
-```
-📁 ALU/
-├── ALU.dig                  
-├── somador_1bit.dig         
-├── somador_8bits.dig        
-├── subtrator_8bits.dig      
-├── multiplicador_8bits.dig  
-├── divisor_8bits.dig        
-├── shift.dig                
-├── register_8bits.dig       
-├── nand.dig                 
-├── xor.dig                  
-└── README.md
-```
-
----
-
 ## Descrição das operações
 
 ### Soma
